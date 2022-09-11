@@ -1,0 +1,15 @@
+D:\MyProject\TestAllocate\TestAllocate\bin\Debug\netcoreapp3.1\TestAllocate.exe
+D:\MyProject\TestAllocate\TestAllocate\bin\Debug\netcoreapp3.1\TestAllocate.deps.json
+D:\MyProject\TestAllocate\TestAllocate\bin\Debug\netcoreapp3.1\TestAllocate.runtimeconfig.json
+D:\MyProject\TestAllocate\TestAllocate\bin\Debug\netcoreapp3.1\TestAllocate.runtimeconfig.dev.json
+D:\MyProject\TestAllocate\TestAllocate\bin\Debug\netcoreapp3.1\TestAllocate.dll
+D:\MyProject\TestAllocate\TestAllocate\bin\Debug\netcoreapp3.1\TestAllocate.pdb
+D:\MyProject\TestAllocate\TestAllocate\obj\Debug\netcoreapp3.1\TestAllocate.csproj.AssemblyReference.cache
+D:\MyProject\TestAllocate\TestAllocate\obj\Debug\netcoreapp3.1\TestAllocate.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProject\TestAllocate\TestAllocate\obj\Debug\netcoreapp3.1\TestAllocate.AssemblyInfoInputs.cache
+D:\MyProject\TestAllocate\TestAllocate\obj\Debug\netcoreapp3.1\TestAllocate.AssemblyInfo.cs
+D:\MyProject\TestAllocate\TestAllocate\obj\Debug\netcoreapp3.1\TestAllocate.csproj.CoreCompileInputs.cache
+D:\MyProject\TestAllocate\TestAllocate\obj\Debug\netcoreapp3.1\TestAllocate.dll
+D:\MyProject\TestAllocate\TestAllocate\obj\Debug\netcoreapp3.1\TestAllocate.pdb
+D:\MyProject\TestAllocate\TestAllocate\obj\Debug\netcoreapp3.1\TestAllocate.genruntimeconfig.cache
+D:\MyProject\TestAllocate\TestAllocate\bin\Debug\netcoreapp3.1\Data.txt
